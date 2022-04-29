@@ -3,6 +3,8 @@
 
 💻 I’m currently learning coding at 42Paris 
 
+[![abensett's 42 stats](https://badge42.vercel.app/api/v2/cl2kphwtw001609lj618zqbhx/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+
 ## 42 Core Curriculum Progress
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
