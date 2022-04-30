@@ -1,9 +1,6 @@
-### Hi there 👋
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-
-💻 I’m currently learning coding at 42Paris 
-<div align="center"><img alt="Bensetti | Abou" src="https://i.imgur.com/34fiEUG.gif" /></div>
-
+ 
 ## 42 Core Curriculum Progress
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
