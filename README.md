@@ -3,7 +3,6 @@
 
 💻 I’m currently learning coding at 42Paris 
 
-[![abensett's 42 stats](https://badge42.vercel.app/api/v2/cl2kphwtw001609lj618zqbhx/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
 ## 42 Core Curriculum Progress
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
@@ -18,6 +17,11 @@
 | 8  | [Philosophers](../../../8.-Philosophers )  | ✅ || 18  | C06 | 🔒    |   |     |                                |         |
 | 9  | [minishell](../../../9.-Minishell )        | ⚙️ || 19  | C07 | 🔒    |   |     |                                |         |
 | 10   | [NetPractice](../../../../)              |⚙️  || 20  | C08  | 🔒     |   |     |                                |         |
+
+
+|[![abensett's 42 stats](https://badge42.vercel.app/api/v2/cl2kphwtw001609lj618zqbhx/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abensett&show_icons=true&theme=dark)|
+|---|---|
+
 <!--
 **Abensett/Abensett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
