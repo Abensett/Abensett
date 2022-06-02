@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
  
-## 42 Core Curriculum Progress 🇩🇿
+## 42 Core Curriculum Progress 🇩
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../1.-Libft )               | ✅ || 11 | cub3d                                      | 🔒     |   | 20  |                     | 🔒      |
