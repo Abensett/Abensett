@@ -13,7 +13,7 @@
 | 7  | [Fract0l](../../../7.-Fract-ol)             | ✅ || 17 | C05 | ⚙️    |   |     |                                |         |
 | 8  | [Philosophers](../../../8.-Philosophers )  | ✅ || 18  | C06 | ⚙️    |   |     |                                |         |
 | 9  | [minishell](../../../9.-Minishell )        | ✅ || 19  | C07 | ⚙️    |   |     |                                |         |
-| 10   | [NetPractice](../../../../)              |⚙️  || 20  | C08  | ⚙️     |   |     |                                |         |
+| 10   | [NetPractice](../../../../)              | ✅|| 20  | C08  | ⚙️     |   |     |                                |         |
 
 
 |[![abensett's 42 stats](https://badge42.vercel.app/api/v2/cl2kphwtw001609lj618zqbhx/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abensett&show_icons=true&theme=dark)|
