@@ -13,7 +13,7 @@
 | 7  | [Fract0l](../../../7.-Fract-ol)             | ✅ || 17 |[C++ Module 05](../../../17.CPP-Module-05 ) | ✅     |   |     |                                |         |
 | 8  | [Philosophers](../../../8.-Philosophers )  | ✅ || 18  | [C++ Module 06](../../../18.CPP-Module-06 ) | ✅     |   |     |                                |         |
 | 9  | [minishell](../../../9.-Minishell )        | ✅ || 19  | [C++ Module 07](../../../19.CPP-Module-07 ) | ✅    |   |     |                                |         |
-| 10   | [NetPractice](../../../10.-Netpractice)              | ✅|| 20  | [C++ Module 08](../../../20.CPP-Module-08)  | ⚙️     |   |     |                                |         |
+| 10   | [NetPractice](../../../10.-Netpractice)              | ✅|| 20  | [C++ Module 08](../../../20.CPP-Module-08)  |  ✅  |   |     |                                |         |
 
 
 |[![abensett's 42 stats](https://badge42.vercel.app/api/v2/cl2kphwtw001609lj618zqbhx/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abensett&show_icons=true&theme=dark)|
