@@ -19,6 +19,13 @@
 |[![abensett's 42 stats](https://badge42.vercel.app/api/v2/cl2kphwtw001609lj618zqbhx/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abensett&show_icons=true&theme=dark)|
 |---|---|
 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Postgresql" width="26px" src="https://fr.wikipedia.org/wiki/PostgreSQL#/media/Fichier:Postgresql_elephant.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
 <!--
 **Abensett/Abensett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
