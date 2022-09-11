@@ -20,24 +20,24 @@
 |---|---|
 
 
-<img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/85625233/189532064-41f90749-da6f-4caa-9c01-f5b12af5ef22.png" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Ocaml" width="26px" src="https://user-images.githubusercontent.com/85625233/189532438-379cae19-396a-4725-ad57-a8907ee853e2.png" style="padding-right:10px;" />
+<img align="left" alt="C" title="C" width="26px" src="https://user-images.githubusercontent.com/85625233/189532064-41f90749-da6f-4caa-9c01-f5b12af5ef22.png" style="padding-right:10px;" />
+<img align="left" alt="C++" title="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Python" title="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Ocaml" title="Ocaml" width="26px" src="https://user-images.githubusercontent.com/85625233/189532438-379cae19-396a-4725-ad57-a8907ee853e2.png" style="padding-right:10px;" />
 
-<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" style="padding-right:10px;" />
-<img align="left" alt="Bash" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" style="padding-right:10px;" />
+<img align="left" alt="Linux" title="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" style="padding-right:10px;" />
+<img align="left" alt="Bash" title="Bash" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" style="padding-right:10px;" />
 
   
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Vim" width="26px" src="https://user-images.githubusercontent.com/85625233/189532226-df2ad681-94cd-41fe-a5e1-cf8cdcb40747.png" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" title="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Vim" title="Vim" width="26px" src="https://user-images.githubusercontent.com/85625233/189532226-df2ad681-94cd-41fe-a5e1-cf8cdcb40747.png" style="padding-right:10px;" />
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Postgresql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/langfr-1280px-Postgresql_elephant.svg.png" style="padding-right:10px;" />
+<img align="left" alt="HTML5" title="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" title="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Postgresql" title="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/langfr-1280px-Postgresql_elephant.svg.png" style="padding-right:10px;" />
 
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" title="Github" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 <!--
 **Abensett/Abensett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
