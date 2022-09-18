@@ -39,6 +39,9 @@
 
 <img align="left" alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" title="Github" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Notion" title="Notion" width="26px" src="https://user-images.githubusercontent.com/85625233/190932420-1a30a0db-59bb-4c16-961b-1d79054c3db3.png" style="padding-right:10px;" />
+<img align="left" alt="Obsidian" title="Obsidian" width="26px" src="https://user-images.githubusercontent.com/85625233/190932434-5c254182-7ca8-4e18-9fb2-a462f52626b8.png" style="padding-right:10px;" />
+<img align="left" alt="Airtable" title="Airtable" width="26px" src="https://user-images.githubusercontent.com/85625233/190932466-8a0827dc-0642-477c-bf35-a2d805497841.png" style="padding-right:10px;" />
 
 <!--
 **Abensett/Abensett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
