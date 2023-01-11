@@ -43,9 +43,6 @@
 <img align="left" alt="Obsidian" title="Obsidian" width="26px" src="https://user-images.githubusercontent.com/85625233/190932434-5c254182-7ca8-4e18-9fb2-a462f52626b8.png" style="padding-right:10px;" />
 <img align="left" alt="Airtable" title="Airtable" width="26px" src="https://user-images.githubusercontent.com/85625233/190932466-8a0827dc-0642-477c-bf35-a2d805497841.png" style="padding-right:10px;" />
 
-
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abensett" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/abensett?trk=profile-badge">Aimen B.</a></div>
-              
 <!--
 **Abensett/Abensett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
