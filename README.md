@@ -5,7 +5,7 @@
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../1.-Libft )               | ✅ || 11 | [Cub3d](../../../11.-Cub3d)                           | ✅ |  | 21  | [Ft_containers](../../../21.-Ft_containers)|   ✅  |
-| 2 | [get_next_line](../../../2.-Get_Next_Line)| ✅ || 12 | [C++ Module 00](../../../12.-C00 )   |  ✅    |   | 22   | [Inception](../../../22.-Inception)                 | ⚙️      |
+| 2 | [get_next_line](../../../2.-Get_Next_Line)| ✅ || 12 | [C++ Module 00](../../../12.-C00 )   |  ✅    |   | 22   | [Inception](../../../22.-Inception)                 | ✅     |
 | 3   | [ft_printf](../../../3.-Printf)           | ✅ || 13  | [C++ Module 01](../../../13.CPP-Module-01 )  |  ✅   |   | 23| [Webserv](../../../23.-Webserv)                          | ✅      |
 | 4   | [Born2beroot](../../../4.-Born2beroot)    | ✅ || 14  | [C++ Module 02](../../../14.CPP-Module-02 )|  ✅   |   | 24 | [Ft_transcendance](../../../21.-Ft_containers)                        | ⚙️      |
 | 5  | [Minitalk](../../../5.-Minitalk )          | ✅ || 15  | [C++ Module 03](../../../15.CPP-Module-03 ) | ✅    |   | 25 |    [C++ Piscine Summary](../../../CPP_Piscine_Summary)                   |       |
