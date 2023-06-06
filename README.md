@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
  
-## 42 Post Core Curriculum Progress (Security & Data)
+## 42 Post Core Curriculum Progress (Security)
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
  | 26 |         [Dr_Quine](../../../25.-Dr_Quine)       |    ⚙️    |
