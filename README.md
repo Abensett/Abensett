@@ -24,29 +24,29 @@
 |[![abensett's 42 stats](https://badge42.vercel.app/api/v2/cl2kphwtw001609lj618zqbhx/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abensett&show_icons=true&theme=dark)|
 |---|---|
 
-<!-- <img  src="https://user-images.githubusercontent.com/85625233/189534404-9aa57a75-0245-44d3-bd26-72a09251c6bc.svg" style="justify-content: center;" /> -->
-<!-- 
-<img align="left" alt="C" title="C" width="26px" src="https://user-images.githubusercontent.com/85625233/189532064-41f90749-da6f-4caa-9c01-f5b12af5ef22.png" style="padding-right:10px;" /> -->
-<!-- <img align="left" alt="C++" title="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Python" title="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" style="padding-right:10px;" /> -->
-<!-- <img align="left" alt="Ocaml" title="Ocaml" width="26px" src="https://user-images.githubusercontent.com/85625233/189532438-379cae19-396a-4725-ad57-a8907ee853e2.png" style="padding-right:10px;" /> -->
+<img  src="https://user-images.githubusercontent.com/85625233/189534404-9aa57a75-0245-44d3-bd26-72a09251c6bc.svg" style="justify-content: center;" /> 
+ 
+<img align="left" alt="C" title="C" width="26px" src="https://user-images.githubusercontent.com/85625233/189532064-41f90749-da6f-4caa-9c01-f5b12af5ef22.png" style="padding-right:10px;" /> 
+ <img align="left" alt="C++" title="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Python" title="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" style="padding-right:10px;" /> 
+ <img align="left" alt="Ocaml" title="Ocaml" width="26px" src="https://user-images.githubusercontent.com/85625233/189532438-379cae19-396a-4725-ad57-a8907ee853e2.png" style="padding-right:10px;" /> 
 
-<!-- <img align="left" alt="Linux" title="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" style="padding-right:10px;" /> -->
-<!-- <img align="left" alt="Bash" title="Bash" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" style="padding-right:10px;" />
- -->
+ <img align="left" alt="Linux" title="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" style="padding-right:10px;" /> 
+<img align="left" alt="Bash" title="Bash" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" style="padding-right:10px;" />
+ 
   
-<!-- <img align="left" alt="Visual Studio Code" title="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Vim" title="Vim" width="26px" src="https://user-images.githubusercontent.com/85625233/189532226-df2ad681-94cd-41fe-a5e1-cf8cdcb40747.png" style="padding-right:10px;" /> -->
+ <img align="left" alt="Visual Studio Code" title="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Vim" title="Vim" width="26px" src="https://user-images.githubusercontent.com/85625233/189532226-df2ad681-94cd-41fe-a5e1-cf8cdcb40747.png" style="padding-right:10px;" />
 
-<!-- <img align="left" alt="HTML5" title="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" title="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /> -->
-<!-- <img align="left" alt="Postgresql" title="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/langfr-1280px-Postgresql_elephant.svg.png" style="padding-right:10px;" /> -->
-<!-- 
+ <img align="left" alt="HTML5" title="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" title="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /> 
+ <img align="left" alt="Postgresql" title="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/langfr-1280px-Postgresql_elephant.svg.png" style="padding-right:10px;" /> 
+
 <img align="left" alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" title="Github" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" /> -->
-<!-- <img align="left" alt="Notion" title="Notion" width="26px" src="https://user-images.githubusercontent.com/85625233/190932420-1a30a0db-59bb-4c16-961b-1d79054c3db3.png" style="padding-right:10px;" />
-<img align="left" alt="Obsidian" title="Obsidian" width="26px" src="https://user-images.githubusercontent.com/85625233/190932434-5c254182-7ca8-4e18-9fb2-a462f52626b8.png" style="padding-right:10px;" /> -->
-<!-- <img align="left" alt="Airtable" title="Airtable" width="26px" src="https://user-images.githubusercontent.com/85625233/190932466-8a0827dc-0642-477c-bf35-a2d805497841.png" style="padding-right:10px;" />.      -->
+<img align="left" alt="GitHub" title="Github" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" /> 
+<img align="left" alt="Notion" title="Notion" width="26px" src="https://user-images.githubusercontent.com/85625233/190932420-1a30a0db-59bb-4c16-961b-1d79054c3db3.png" style="padding-right:10px;" />
+<img align="left" alt="Obsidian" title="Obsidian" width="26px" src="https://user-images.githubusercontent.com/85625233/190932434-5c254182-7ca8-4e18-9fb2-a462f52626b8.png" style="padding-right:10px;" /> 
+ <img align="left" alt="Airtable" title="Airtable" width="26px" src="https://user-images.githubusercontent.com/85625233/190932466-8a0827dc-0642-477c-bf35-a2d805497841.png" style="padding-right:10px;" />
 
 <!--
 **Abensett/Abensett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
