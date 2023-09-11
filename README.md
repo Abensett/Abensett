@@ -21,8 +21,8 @@
 | 10   | [NetPractice](../../../10.-Netpractice)              | ✅|| 20  | [C++ Module 08](../../../20.CPP-Module-08)  |  ✅  |   |     |                                |         |
 
  <!---
-|[![abensett's 42 stats](https://badge42.vercel.app/api/v2/cl2kphwtw001609lj618zqbhx/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)  !--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abensett&show_icons=true&theme=dark)|
+|[![abensett's 42 stats](https://badge42.vercel.app/api/v2/cl2kphwtw001609lj618zqbhx/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abensett&show_icons=true&theme=dark)|!--->
 
 
 <img  src="https://user-images.githubusercontent.com/85625233/189534404-9aa57a75-0245-44d3-bd26-72a09251c6bc.svg" style="justify-content: center;" /> 
