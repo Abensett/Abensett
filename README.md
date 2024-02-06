@@ -4,7 +4,10 @@
 ## 42 Post Core Curriculum Progress
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
- | 26 |         [Dr_Quine](../../../25.-Dr_Quine)       |    ⚙️    |
+ | 26 |         [Dr_Quine](../../../25.-Dr_Quine)     |    ⚙️    | |  |            |      | |  |            |       |
+ | 26 |         [Snow_Crash](../../../26.-Snow_Crash)     |    ⚙️    | |  |            |     | |  |            |       |
+
+
 
 ## 42 Core Curriculum Progress 
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
