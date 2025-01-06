@@ -8,6 +8,8 @@
  | 27 |         [Snow_Crash](../../../27.-Snow_Crash)     |    ✅   | |  |            |     | |  |            |       |
  | 28 |         [Rain Fall](../../../28.-Rainfall)     |    ✅   | |  |            |     | |  |            |       |
  | 29 |         [Boot2Root](../../../29.-Boot2root)     |    ✅   | |  |            |     | |  |            |       |
+  | 30 |         [Darkly](../../../30.-Darkly)     |    ✅   | |  |            |     | |  |            |       |
+
 
 ## 42 Core Curriculum Progress 
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
