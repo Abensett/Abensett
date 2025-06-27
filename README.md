@@ -1,5 +1,40 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
+# 👋 Hey there
+
+I'm just a guy who loves building things with Python, C, C++, and Bash.  
+From web apps to bots and automation scripts, I enjoy making things that are smart, useful, or just plain fun.  
+My main focus is now security: understanding vulnerabilities, building secure systems, and learning how to outsmart the bad guys.  
+
+## ⚙️ What I do
+
+- 🐍 Code in **Python** — scripts, bots, automations, small apps
+- 🐚 Use **Bash** for Linux automation and tooling
+- 💻 Working with **C/C++** 
+- 🌐 Build fullstack **web projects**
+- 🤖 Develop **Discord bots**
+
+
+## 🎓 I also teach
+
+I run dev courses and workshops, like:
+- **Python** scripting / machine learning for beginners
+- **Web development** (frontend & backend basics)
+- **AI-powered apps** (chatbots, simple models, and APIs)
+- **Discord bot development**  
+
+
+## 🔍 Interests
+
+- 🔐 Cybersecurity (always learning more!)
+- 🤖 🧠 Making automation smarter including AI
+- 💡👥 🔄 Explaining to others is how I sharpen my own understanding
+
+  
+**Build smart. Stay curious. Share what you learn.**
+
+---
+  
  
 ## 42 Post Core Curriculum Progress CYBERSECURITY
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
