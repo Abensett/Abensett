@@ -8,7 +8,7 @@ My main focus is now security: understanding vulnerabilities, building secure sy
 
 ## ⚙️ What I do
 
-- 🐍 Code in **Python** — scripts, bots, automations, small apps
+- 🐍 Code in **Python** : scripts, bots, automations, small apps
 - 🐚 Use **Bash** for Linux automation and tooling
 - 💻 Working with **C/C++** 
 - 🌐 Build fullstack **web projects**
