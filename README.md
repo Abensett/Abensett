@@ -39,11 +39,11 @@ I run dev courses and workshops, like:
 ## 42 Post Core Curriculum Progress CYBERSECURITY
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
- | 26 |         [Dr_Quine](../../../25.-Dr_Quine)     |    ⚙️    | |  |            |      | |  |            |       |
+ | 26 |         [Dr_Quine](../../../25.-Dr_Quine)     |    ⚙️    | | 31 |  [Override](../../../31.-Override)           |   ⚙️   | |  |            |       |
  | 27 |         [Snow_Crash](../../../27.-Snow_Crash)     |    ✅   | |  |            |     | |  |            |       |
  | 28 |         [Rain Fall](../../../28.-Rainfall)     |    ✅   | |  |            |     | |  |            |       |
  | 29 |         [Boot2Root](../../../29.-Boot2root)     |    ✅   | |  |            |     | |  |            |       |
-  | 30 |         [Darkly](../../../30.-Darkly)     |    ✅   | |  |            |     | |  |            |       |
+  | 30 |         [Darkly](../../../30.-Darkly)     |    ⚙️   | |  |            |     | |  |            |       |
 
 
 ## 42 Core Curriculum Progress 
