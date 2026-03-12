@@ -55,25 +55,27 @@ Obsidian addict. Privacy advocate. Curious by default.
 
 ### 🔒 Security (42 Paris)
 
-#### [Boot2Root](https://github.com/Abensett/29.-Boot2root)
-> Full pentest chain: reconnaissance → exploitation → privilege escalation → root
+#### [Override](https://github.com/Abensett/31.-OverRide)
+> Advanced binary exploitation — format string attacks, ret2libc, ROP chains, GOT overwrite
 
-`Pentest` `Enumeration` `Privilege Escalation` `Multi-vector`
+`Format String` `ret2libc` `ROP` `x86-64 ASM` `System V ABI`
 
 #### [Rainfall](https://github.com/Abensett/28.-Rainfall)
 > Progressive binary exploitation — buffer overflows, format strings, shellcode injection
 
 `C` `GDB` `Buffer Overflow` `Shellcode` `x86-64`
 
+#### [Boot2Root](https://github.com/Abensett/29.-Boot2root)
+> Full pentest chain: reconnaissance → exploitation → privilege escalation → root
+
+`Pentest` `Enumeration` `Privilege Escalation` `Multi-vector`
+
+
 #### [Snow Crash](https://github.com/Abensett/27.-Snow_Crash)
 > Multi-level CTF — system vulnerability exploitation and privilege escalation
 
 `Reverse Engineering` `Exploitation` `Linux` `CTF`
 
-#### [Override](https://github.com/Abensett/31.-OverRide)
-> Advanced binary exploitation — format string attacks, ret2libc, ROP chains, GOT overwrite
-
-`Format String` `ret2libc` `ROP` `x86-64 ASM` `System V ABI`
 
 #### [Darkly](https://github.com/Abensett/30.-Darkly)
 > Web application security — OWASP Top 10 vulnerability discovery and exploitation
@@ -87,11 +89,27 @@ Obsidian addict. Privacy advocate. Curious by default.
 
 `C++` `HTTP` `Sockets` `RFC 2616` `I/O Multiplexing`
 
+#### [Minishell](https://github.com/Abensett/9.-Minishell)
+> Bash-like shell from scratch — pipes, redirections, signals, environment management
+
+`C` `fork/exec` `Pipes` `Signals` `Parsing`
+
 #### [Inception](https://github.com/Abensett/22.-Inception)
 > Multi-container infrastructure with Docker — WordPress, Nginx, MariaDB, Redis
 
 `Docker` `Docker Compose` `Nginx` `System Administration`
 
+### 🎓 Teaching
+
+#### [Web Dev — HTML/CSS/Tailwind](https://github.com/Abensett/MM_Profil_de_base_HTML_-_CSS_25-26) · [Live Demo](https://abensett.github.io/MM_Profil_de_base_HTML_-_CSS_25-26/)
+> Progressive web courses — profile page, chat UI, marketplace
+
+#### [Python & Pygame](https://github.com/Abensett/MM_PYGAME_2025-26)
+> Game dev courses for kids & teens — Memory, Snake, Maze
+
+`Python` `Pygame` `Education`
+
+`HTML` `CSS` `Tailwind` `Education`
 ---
 
 ## 42 Progress
