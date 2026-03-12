@@ -1,107 +1,133 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+# Abensett
 
-# 👋 Hey there
+Security × Automation × Teaching · 42 Paris
 
-I'm just a guy who loves building things with Python, C, C++, and Bash.  
-From web apps to bots and automation scripts, I enjoy making things that are smart, useful, or just plain fun.  
-My main focus is now security: understanding vulnerabilities, building secure systems, and learning how to outsmart the bad guys.  
+I learn how things work. Then I break them, automate them, or teach them.
+Currently deep into binary exploitation, detection engineering, and anything I can automate.
 
-## ⚙️ What I do
-
-- 🐍 Code in **Python** : scripts, bots, automations, small apps
-- 🐚 Use **Bash** for Linux automation and tooling
-- 💻 Working with **C/C++** 
-- 🌐 Build fullstack **web projects**
-- 🤖 Develop **Discord bots**
-
-
-## 🎓 I also teach
-
-I run dev courses and workshops, like:
-- **Python** scripting / machine learning for beginners
-- **Web development** (frontend & backend basics)
-- **AI-powered apps** (chatbots, simple models, and APIs)
-- **Discord bot development**  
-
-
-## 🔍 Interests
-
-- 🔐 Cybersecurity (always learning more!)
-- 🤖 🧠 Making automation smarter including AI
-- 💡👥 🔄 Explaining to others is how I sharpen my own understanding
-
-  
-**Build smart. Stay curious. Share what you learn.**
+Obsidian addict. Privacy advocate. Curious by default.
 
 ---
-  
- 
-## 42 Post Core Curriculum Progress CYBERSECURITY
-| No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
-| :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
- | 26 |         [Dr_Quine](../../../25.-Dr_Quine)     |    ⚙️    | | 31 |  [Over Ride](../../../31.-OverRide)           |   ⚙️   | |  |            |       |
- | 27 |         [Snow_Crash](../../../27.-Snow_Crash)     |    ✅   | |  |            |     | |  |            |       |
- | 28 |         [Rain Fall](../../../28.-Rainfall)     |    ✅   | |  |            |     | |  |            |       |
- | 29 |         [Boot2Root](../../../29.-Boot2root)     |    ✅   | |  |            |     | |  |            |       |
-  | 30 |         [Darkly](../../../30.-Darkly)     |    ⚙️   | |  |            |     | |  |            |       |
 
+## Tech Stack
 
-## 42 Core Curriculum Progress 
-| No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
-| :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
-| 1   | [Libft](../../../1.-Libft )               | ✅ || 11 | [Cub3d](../../../11.-Cub3d)                           | ✅ |  | 21  | [Ft_containers](../../../21.-Ft_containers)|   ✅  |
-| 2 | [get_next_line](../../../2.-Get_Next_Line)| ✅ || 12 | [C++ Module 00](../../../12.-C00 )   |  ✅    |   | 22   | [Inception](../../../22.-Inception)                 | ✅     |
-| 3   | [ft_printf](../../../3.-Printf)           | ✅ || 13  | [C++ Module 01](../../../13.CPP-Module-01 )  |  ✅   |   | 23| [Webserv](../../../23.-Webserv)                          | ✅      |
-| 4   | [Born2beroot](../../../4.-Born2beroot)    | ✅ || 14  | [C++ Module 02](../../../14.CPP-Module-02 )|  ✅   |   | 24 | [Ft_transcendence](../../../24.-Ft_transcendence)                        |✅     |
-| 5  | [Minitalk](../../../5.-Minitalk )          | ✅ || 15  | [C++ Module 03](../../../15.CPP-Module-03 ) | ✅    |   | 25 |    [C++ Piscine Summary](../../../CPP_Piscine_Summary)                   |   ✅    |
-| 6  | [Push_Swap](../../../6.-Push_Swap )        | ✅ || 16  | [C++ Module 04](../../../16.CPP-Module-04 ) | ✅    |   |  |        |    |
-| 7  | [Fract0l](../../../7.-Fract-ol)             | ✅ || 17 |[C++ Module 05](../../../17.CPP-Module-05 ) | ✅     |   |     |                                |         |
-| 8  | [Philosophers](../../../8.-Philosophers )  | ✅ || 18  | [C++ Module 06](../../../18.CPP-Module-06 ) | ✅     |   |     |                                |         |
-| 9  | [minishell](../../../9.-Minishell )        | ✅ || 19  | [C++ Module 07](../../../19.CPP-Module-07 ) | ✅    |   |     |                                |         | 
-| 10   | [NetPractice](../../../10.-Netpractice)              | ✅|| 20  | [C++ Module 08](../../../20.CPP-Module-08)  |  ✅  |   |     |                                |         |
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![x86 Assembly](https://img.shields.io/badge/x86--64_ASM-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
- <!---
-|[![abensett's 42 stats](https://badge42.vercel.app/api/v2/cl2kphwtw001609lj618zqbhx/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)  
-|!--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abensett&show_icons=true&theme=dark) 
-<img  src="https://user-images.githubusercontent.com/85625233/189534404-9aa57a75-0245-44d3-bd26-72a09251c6bc.svg" style="justify-content: center;" /> 
+### Web & Dev
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+### Security & Detection
+![Datadog](https://img.shields.io/badge/Datadog_SIEM-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
+![Kandji](https://img.shields.io/badge/Kandji_MDM-000000?style=for-the-badge&logoColor=white)
+![1Password](https://img.shields.io/badge/1Password-0094F5?style=for-the-badge&logo=1password&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-   
-<img align="left" alt="C" title="C" width="26px" src="https://user-images.githubusercontent.com/85625233/189532064-41f90749-da6f-4caa-9c01-f5b12af5ef22.png" style="padding-right:10px;" /> 
- <img align="left" alt="C++" title="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Python" title="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" style="padding-right:10px;" /> 
- <img align="left" alt="Ocaml" title="Ocaml" width="26px" src="https://user-images.githubusercontent.com/85625233/189532438-379cae19-396a-4725-ad57-a8907ee853e2.png" style="padding-right:10px;" /> 
+### Offensive
+![Binary Exploitation](https://img.shields.io/badge/Binary_Exploitation-DC143C?style=for-the-badge)
+![Format Strings](https://img.shields.io/badge/Format_String_Attacks-DC143C?style=for-the-badge)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-DC143C?style=for-the-badge)
+![Buffer Overflow](https://img.shields.io/badge/Buffer_Overflow-DC143C?style=for-the-badge)
 
- <img align="left" alt="Linux" title="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" style="padding-right:10px;" /> 
-<img align="left" alt="Bash" title="Bash" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" style="padding-right:10px;" />
- 
-  
- <img align="left" alt="Visual Studio Code" title="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Vim" title="Vim" width="26px" src="https://user-images.githubusercontent.com/85625233/189532226-df2ad681-94cd-41fe-a5e1-cf8cdcb40747.png" style="padding-right:10px;" />
+### Infrastructure & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 
- <img align="left" alt="HTML5" title="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" title="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /> 
- <img align="left" alt="Postgresql" title="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/langfr-1280px-Postgresql_elephant.svg.png" style="padding-right:10px;" /> 
+---
 
-<img align="left" alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" title="Github" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" /> 
-<img align="left" alt="Notion" title="Notion" width="26px" src="https://user-images.githubusercontent.com/85625233/190932420-1a30a0db-59bb-4c16-961b-1d79054c3db3.png" style="padding-right:10px;" />
-<img align="left" alt="Obsidian" title="Obsidian" width="26px" src="https://user-images.githubusercontent.com/85625233/190932434-5c254182-7ca8-4e18-9fb2-a462f52626b8.png" style="padding-right:10px;" /> 
- <img align="left" alt="Airtable" title="Airtable" width="26px" src="https://user-images.githubusercontent.com/85625233/190932466-8a0827dc-0642-477c-bf35-a2d805497841.png" style="padding-right:10px;" />
+## Featured Projects
 
-<!--
-**Abensett/Abensett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
-Here are some ideas to get you started:
+### 🔒 Security (42 Paris)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
+#### [Boot2Root](https://github.com/Abensett/29.-Boot2root)
+> Full pentest chain: reconnaissance → exploitation → privilege escalation → root
+
+`Pentest` `Enumeration` `Privilege Escalation` `Multi-vector`
+
+#### [Rainfall](https://github.com/Abensett/28.-Rainfall)
+> Progressive binary exploitation — buffer overflows, format strings, shellcode injection
+
+`C` `GDB` `Buffer Overflow` `Shellcode` `x86-64`
+
+#### [Snow Crash](https://github.com/Abensett/27.-Snow_Crash)
+> Multi-level CTF — system vulnerability exploitation and privilege escalation
+
+`Reverse Engineering` `Exploitation` `Linux` `CTF`
+
+#### [Override](https://github.com/Abensett/31.-OverRide)
+> Advanced binary exploitation — format string attacks, ret2libc, ROP chains, GOT overwrite
+
+`Format String` `ret2libc` `ROP` `x86-64 ASM` `System V ABI`
+
+#### [Darkly](https://github.com/Abensett/30.-Darkly)
+> Web application security — OWASP Top 10 vulnerability discovery and exploitation
+
+`OWASP` `Web Security` `SQL Injection` `XSS` `CSRF`
+
+### 🏗️ Systems (42 Paris)
+
+#### [Webserv](https://github.com/Abensett/23.-Webserv)
+> HTTP/1.1 server from scratch in C++ — RFC compliant, CGI, multiplexing
+
+`C++` `HTTP` `Sockets` `RFC 2616` `I/O Multiplexing`
+
+#### [Inception](https://github.com/Abensett/22.-Inception)
+> Multi-container infrastructure with Docker — WordPress, Nginx, MariaDB, Redis
+
+`Docker` `Docker Compose` `Nginx` `System Administration`
+
+---
+
+## 42 Progress
+
+<details>
+<summary><b>Core Curriculum — ✅ Complete</b></summary>
+
+| # | Project | Status | | # | Project | Status | | # | Project | Status |
+|:-:|---------|:------:|-|:-:|---------|:------:|-|:-:|---------|:------:|
+| 1 | [Libft](https://github.com/Abensett/1.-Libft) | ✅ | | 11 | [Cub3d](https://github.com/Abensett/11.-Cub3d) | ✅ | | 21 | [Ft_containers](https://github.com/Abensett/21.-Ft_containers) | ✅ |
+| 2 | [get_next_line](https://github.com/Abensett/2.-Get_Next_Line) | ✅ | | 12 | [C++ Module 00](https://github.com/Abensett/12.-C00) | ✅ | | 22 | [Inception](https://github.com/Abensett/22.-Inception) | ✅ |
+| 3 | [ft_printf](https://github.com/Abensett/3.-Printf) | ✅ | | 13 | [C++ Module 01](https://github.com/Abensett/13.CPP-Module-01) | ✅ | | 23 | [Webserv](https://github.com/Abensett/23.-Webserv) | ✅ |
+| 4 | [Born2beroot](https://github.com/Abensett/4.-Born2beroot) | ✅ | | 14 | [C++ Module 02](https://github.com/Abensett/14.CPP-Module-02) | ✅ | | 24 | [Ft_transcendence](https://github.com/Abensett/24.-Ft_transcendence) | ✅ |
+| 5 | [Minitalk](https://github.com/Abensett/5.-Minitalk) | ✅ | | 15 | [C++ Module 03](https://github.com/Abensett/15.CPP-Module-03) | ✅ | | 25 | [C++ Summary](https://github.com/Abensett/CPP_Piscine_Summary) | ✅ |
+| 6 | [Push_Swap](https://github.com/Abensett/6.-Push_Swap) | ✅ | | 16 | [C++ Module 04](https://github.com/Abensett/16.CPP-Module-04) | ✅ | | | | |
+| 7 | [Fract-ol](https://github.com/Abensett/7.-Fract-ol) | ✅ | | 17 | [C++ Module 05](https://github.com/Abensett/17.CPP-Module-05) | ✅ | | | | |
+| 8 | [Philosophers](https://github.com/Abensett/8.-Philosophers) | ✅ | | 18 | [C++ Module 06](https://github.com/Abensett/18.CPP-Module-06) | ✅ | | | | |
+| 9 | [Minishell](https://github.com/Abensett/9.-Minishell) | ✅ | | 19 | [C++ Module 07](https://github.com/Abensett/19.CPP-Module-07) | ✅ | | | | |
+| 10 | [NetPractice](https://github.com/Abensett/10.-Netpractice) | ✅ | | 20 | [C++ Module 08](https://github.com/Abensett/20.CPP-MODULE-08) | ✅ | | | | |
+
+</details>
+
+### Security Branch
+
+| # | Project | Status | Focus |
+|:-:|---------|:------:|-------|
+| 26 | [Dr_Quine](https://github.com/Abensett/25.-Dr_Quine) | ⚙️ | Self-replication |
+| 27 | [Snow Crash](https://github.com/Abensett/27.-Snow_Crash) | ✅ | System exploitation |
+| 28 | [Rainfall](https://github.com/Abensett/28.-Rainfall) | ✅ | Binary exploitation |
+| 29 | [Boot2Root](https://github.com/Abensett/29.-Boot2root) | ✅ | Full pentest |
+| 30 | [Darkly](https://github.com/Abensett/30.-Darkly) | ⚙️ | Web security (OWASP) |
+| 31 | [Override](https://github.com/Abensett/31.-OverRide) | ⚙️ | Advanced binary exploitation |
+
+---
+
+## 📫 Reach me
+
+[![Email](https://img.shields.io/badge/Email-work@aimen.be-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:work@aimen.be)
+[![42](https://img.shields.io/badge/42_Paris-000000?style=flat-square&logo=42&logoColor=white)](https://profile.intra.42.fr/)
